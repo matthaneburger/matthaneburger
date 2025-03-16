@@ -53,3 +53,8 @@ Hello, everyone! I am Matt Haneburger (pronounced "Hannah" "Burger") and I am a 
 
 <img src="images/waves.gif" height="2" width="100%">
 
+### OS Contributions
+
+<img src="https://github-readme-stats.vercel.app/api?username=matthaneburger&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=stars&line_height=32&icon_color=6DE2F1&ring_color=6DE2F1&text_bold=false" width="700px">
+
+<img src="images/waves.gif" height="2" width="100%">
