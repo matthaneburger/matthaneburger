@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ### 👨‍💻 About:
 Hello, everyone! I am Matt Hane🍔 (pronounced "Hannah" "Burger") and I am a Full Stack Engineer and current DevSecOps Solutions Engineer. 
 
+<img src="images/waves.gif" height="2" width="100%">
+
 ### 🛠️ Tools, 🌎 Languages, 🌩️ Cloud Platforms:
 <a href="https://code.visualstudio.com/" target="_blank"><img title="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding: 10px;" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img title="Amazon Web Services" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="padding: 10px;" /></a>
@@ -37,6 +39,9 @@ Hello, everyone! I am Matt Hane🍔 (pronounced "Hannah" "Burger") and I am a Fu
 <a href="https://graphql.org/" target="_blank"><img title="GraphQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding: 10px;" /></a>
 <a href="https://reactjs.org/" target="_blank"><img title="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding: 10px;" /></a>
 
+<img src="images/waves.gif" height="2" width="100%">
 
 ### GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=matthaneburger&theme=matrix&no-frame=true&row=1&column=4&rank=SSS,SS,S,AAA,AA,A,B" width="700px">
+
+<img src="images/waves.gif" height="2" width="100%">
