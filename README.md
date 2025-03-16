@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🚧 Currently under construction! 🚧
 
 ### 👨‍💻 About:
-Hello, everyone! I am Matt Hane🍔 (pronounced "Hannah" "Burger") and I am a Full Stack Engineer and current DevSecOps Solutions Engineer. 
+Hello, everyone! I am Matt Haneburger (pronounced "Hannah" "Burger") and I am a Full Stack Engineer and current DevSecOps Solutions Engineer. 
 
 <img src="images/waves.gif" height="2" width="100%">
 
@@ -45,3 +46,8 @@ Hello, everyone! I am Matt Hane🍔 (pronounced "Hannah" "Burger") and I am a Fu
 <img src="https://github-profile-trophy.vercel.app/?username=matthaneburger&theme=tokyonight&no-frame=true&row=1&column=4&rank=SSS,SS,S,AAA,AA,A,B" width="700px">
 
 <img src="images/waves.gif" height="2" width="100%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=compact&langs_count=10&hide_title=true&matthaneburger&show_icons=true&theme=tokyonight" width="500px"/>
+
+<img src="images/waves.gif" height="2" width="100%">
+
