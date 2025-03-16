@@ -47,6 +47,12 @@ Hello, everyone! I am Matt Haneburger (pronounced "Hannah" "Burger") and I am a 
 
 <img src="images/waves.gif" height="2" width="100%">
 
+### GitHub Commit History
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=matthaneburger&theme=react-dark&hide_title=true&line=39D353&color=39D353">
+
+<img src="images/waves.gif" height="2" width="100%">
+
 ### Most used languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=compact&langs_count=10&hide_title=true&matthaneburger&show_icons=true&theme=tokyonight" width="500px"/>
