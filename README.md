@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### 👨‍💻 About:
-Hello, everyone! I am Matt Hane🍔 and I am a Full Stack Engineer and current DevSecOps Solutions Engineer. 
+Hello, everyone! I am Matt Hane🍔 (pronounced "Hannah" "Burger") and I am a Full Stack Engineer and current DevSecOps Solutions Engineer. 
 
 ### 🛠️ Tools, 🌎 Languages, 🌩️ Cloud Platforms:
 <a href="https://code.visualstudio.com/" target="_blank"><img title="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding: 10px;" /></a>
