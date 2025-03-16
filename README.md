@@ -39,6 +39,7 @@ Hello, everyone! I am Matt Haneburger (pronounced "Hannah" "Burger") and I am a 
 <a href="https://axios-http.com/" target="_blank"><img title="Axios HTTP" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/5615b6091fea770fdf7d6160d8d7056cf1130c03/icons/axios/axios-plain.svg" style="padding: 10px;" /></a>
 <a href="https://graphql.org/" target="_blank"><img title="GraphQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding: 10px;" /></a>
 <a href="https://reactjs.org/" target="_blank"><img title="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding: 10px;" /></a>
+<a href="https://sharepoint.com/" target="_blank"><img title="SharePoint" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/ms-sharepoint.svg" style="padding: 10px;" /></a>
 
 <img src="images/waves.gif" height="2" width="100%">
 
