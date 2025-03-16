@@ -18,13 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👨‍💻 About Me:
-This is where I would put my bio...
-
-<a href="https://matthewhaneburger.com" target="_blank"><img title="Reiner" width="1000px" height="800px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/ifIhadone.png" style="padding: 10px;" /></a>
-
-
 ### 🚧 Currently under construction! 🚧
+
+### 👨‍💻 About Me:
+This is where I will put my bio...
 
 <img src="images/waves.gif" height="2" width="100%">
 
