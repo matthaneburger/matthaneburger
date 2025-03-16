@@ -42,6 +42,6 @@ Hello, everyone! I am Matt Hane🍔 (pronounced "Hannah" "Burger") and I am a Fu
 <img src="images/waves.gif" height="2" width="100%">
 
 ### GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=matthaneburger&theme=matrix&no-frame=true&row=1&column=4&rank=SSS,SS,S,AAA,AA,A,B" width="700px">
+<img src="https://github-profile-trophy.vercel.app/?username=matthaneburger&theme=tokyonight&no-frame=true&row=1&column=4&rank=SSS,SS,S,AAA,AA,A,B" width="700px">
 
 <img src="images/waves.gif" height="2" width="100%">
