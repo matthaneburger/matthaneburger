@@ -1,3 +1,6 @@
+<div align="center">
+
+
 ## Hi there 👋
 
 <!--
@@ -15,10 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🚧 Currently under construction! 🚧
+### 👨‍💻 About Me:
+This is where I would put my bio...
 
-### 👨‍💻 About:
-Hello, everyone! I am Matt Haneburger (pronounced "Hannah" "Burger") and I am a Full Stack Engineer and current DevSecOps Solutions Engineer. 
+
+### 🚧 Currently under construction! 🚧
 
 <img src="images/waves.gif" height="2" width="100%">
 
