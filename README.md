@@ -26,8 +26,9 @@ This is where I will put my bio...
 <img src="images/waves.gif" height="2" width="100%">
 
 ### 🛠️ Tools, 🌎 Languages, 🌩️ Cloud Platforms (not complete yet ~ updated 3.17.25):
-<a href="https://code.visualstudio.com/" target="_blank"><img title="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding: 10px;" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img title="Amazon Web Services" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="padding: 10px;" /></a>
+<a href="https://cloud.google.com/" target="_blank"><img title="Google Cloud Platform" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/googlecloud.svg" style="padding: 10px;" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img title="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding: 10px;" /></a>
 <a href="https://slack.com/" target="_blank"><img title="Slack" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/slack/slack-original.svg" style="padding: 10px;" /></a>
 <a href="https://vercel.com/" target="_blank"><img title="Vercel" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/vercel.ico" style="padding: 10px;" /></a>
 <a href="https://nodejs.org/" target="_blank"><img title="Node.js" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding: 10px;" /></a>
