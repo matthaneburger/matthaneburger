@@ -9,21 +9,21 @@ Hi there! I’m Matt Haneburger, currently working as a DevSecOps Solutions Engi
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center">
-      <a href="https://open.spotify.com/playlist/2YBqtTtS707EHeKQyoArsU?utm_source=generator">
+      <a href="https://open.spotify.com/playlist/2YBqtTtS707EHeKQyoArsU?utm_source=generator" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/spotify.svg" width="80" height="80" alt="Spotify Playlist" />
       </a>
       <br/>
       <sub><b>Coding Playlist 💚</b></sub>
     </td>
     <td align="center">
-      <a href="https://www.goodreads.com/user/show/170154238-matt-haneburger">
+      <a href="https://www.goodreads.com/user/show/170154238-matt-haneburger" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/goodreads.png" width="80" height="80" alt="Goodreads Profile" />
       </a>
       <br/>
       <sub><b>My Goodreads 📕</b></sub>
     </td>
     <td align="center">
-      <a href="https://letterboxd.com/iHaneburglar/">
+      <a href="https://letterboxd.com/iHaneburglar/" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/letterboxd.svg" width="80" height="80" alt="Letterboxd" />
       </a>
       <br/>
