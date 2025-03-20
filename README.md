@@ -14,12 +14,12 @@ Hi there! I’m Bob Jane, currently working as a DevSecOps Solutions Engineer. M
 
 <img src="images/waves.gif" height="2" width="100%">
 
-Check out my [Goodreads](https://example.com) here!  
-[![Goodreads Logo](https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/goodreads.svg)](https://www.goodreads.com/user/show/170154238-matt-haneburger)
+Check out my [Goodreads](https://www.goodreads.com/user/show/170154238-matt-haneburger) here!  
+[![Goodreads Logo](https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/goodreads.png)](https://www.goodreads.com/user/show/170154238-matt-haneburger)
 
 <img src="images/waves.gif" height="2" width="100%">
 
-Here is what I'm currently listening to when I am coding!  
+My favorite coding playlist   
 [![Spotify Logo](https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/spotify.svg)](https://open.spotify.com/playlist/2YBqtTtS707EHeKQyoArsU?si=ZzYV3-BKSyWZsw7vbcBR_Q)
 
 <img src="images/waves.gif" height="2" width="100%">
