@@ -49,7 +49,7 @@ This is where I will put my bio...
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=matthaneburger&theme=nightowl&show_icons=true&hide_border=false&count_private=true" width="500px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=matthaneburger&theme=nightowl&show_icons=true&hide_border=false&count_private=true&rank_icon=github" width="500px"/>
 
 <img src="images/waves.gif" height="2" width="100%">
 
