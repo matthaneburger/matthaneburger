@@ -33,6 +33,7 @@ This is where I will put my bio...
 <a href="https://graphql.org/" target="_blank"><img title="GraphQL" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/graphql-plain.svg" style="padding: 10px;" /></a>
 <a href="https://reactjs.org/" target="_blank"><img title="React" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/react-original.svg" style="padding: 10px;" /></a>
 <a href="https://sharepoint.com/" target="_blank"><img title="SharePoint" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/ms-sharepoint.svg" style="padding: 10px;" /></a>
+<a href="https://gitguardian.com/" target="_blank"><img title="GitGuardian" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/gitguardian.png" style="padding: 10px;" /></a>
 
 <img src="images/waves.gif" height="2" width="100%">
 
