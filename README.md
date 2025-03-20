@@ -10,7 +10,7 @@ These graphics are served from this OS app: https://gh-stats-gen.vercel.app/
 ### 🚧 Currently under construction! 🚧
 
 ### 👨‍💻 About Me:
-Hi there! I’m Bob Jane, currently working as a DevSecOps Solutions Engineer. My background is in software development, and I’ve always loved building, breaking, and tinkering with code to see what makes it tick. When I’m not buried in code, you’ll probably find me at the gym, out hiking, kayaking, traveling, or deep into some good horror 🧟‍♂️. I’m passionate about all things tech, constantly learning, and always looking for ways to push the boundaries of what’s possible.
+Hi there! I’m Matt Haneburger, currently working as a DevSecOps Solutions Engineer. My background is in software development, and I’ve always loved building, breaking, and tinkering with code to see what makes it tick. When I’m not buried in code, you’ll probably find me at the gym, out hiking, kayaking, traveling, or deep into some good horror 🧟‍♂️. I’m passionate about all things tech, constantly learning, and always looking for ways to push the boundaries of what’s possible.
 
 <img src="images/waves.gif" height="2" width="100%">
 
@@ -19,7 +19,6 @@ Check out my [Goodreads](https://www.goodreads.com/user/show/170154238-matt-hane
 
 <img src="images/waves.gif" height="2" width="100%">
 
-My favorite coding playlist   
 [![Spotify Logo](https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/spotify.svg)](https://open.spotify.com/playlist/2YBqtTtS707EHeKQyoArsU?si=ZzYV3-BKSyWZsw7vbcBR_Q)
 
 <img src="images/waves.gif" height="2" width="100%">
