@@ -47,25 +47,23 @@ This is where I will put my bio...
 
 <img src="images/waves.gif" height="2" width="100%">
 
-### GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=matthaneburger&theme=tokyonight&no-frame=true&row=1&column=4&rank=SSS,SS,S,AAA,AA,A,B" width="700px">
-
-<img src="images/waves.gif" height="2" width="100%">
-
 ### GitHub Commit History
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=matthaneburger&theme=react-dark&hide_title=true&line=39D353&color=39D353">
 
 <img src="images/waves.gif" height="2" width="100%">
 
-### Most used languages
+### GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=matthaneburger&theme=tokyonight&no-frame=true&row=1&column=4&rank=SSS,SS,S,AAA,AA,A,B" width="700px">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=compact&langs_count=10&hide_title=true&matthaneburger&show_icons=true&theme=tokyonight" width="500px"/>
+<img src="images/waves.gif" height="2" width="100%">
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=matthaneburger&theme=nightowl&show_icons=true&hide_border=false&count_private=true" width="500px"/>
 
 <img src="images/waves.gif" height="2" width="100%">
 
-### OS Contributions
+### Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api?username=matthaneburger&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=stars&line_height=32&icon_color=6DE2F1&ring_color=6DE2F1&text_bold=false" width="700px">
-
-<img src="images/waves.gif" height="2" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthaneburger&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" width="700px">
