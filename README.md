@@ -34,6 +34,9 @@ This is where I will put my bio...
 <a href="https://reactjs.org/" target="_blank"><img title="React" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/react-original.svg" style="padding: 10px;" /></a>
 <a href="https://sharepoint.com/" target="_blank"><img title="SharePoint" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/ms-sharepoint.svg" style="padding: 10px;" /></a>
 <a href="https://gitguardian.com/" target="_blank"><img title="GitGuardian" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/gitguardian.png" style="padding: 10px;" /></a>
+<a href="https://html5up.net/" target="_blank"><img title="HTML5" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/HTML5.svg" style="padding: 10px;" /></a>
+<a href="https://css3.com/" target="_blank"><img title="CSS3" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/CSS3.svg" style="padding: 10px;" /></a>
+<a href="https://trello.com/" target="_blank"><img title="Trello" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/Trello.svg" style="padding: 10px;" /></a>
 
 <img src="images/waves.gif" height="2" width="100%">
 
