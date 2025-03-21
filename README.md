@@ -34,7 +34,7 @@ Hi there! I’m Matt Haneburger, currently working as a DevSecOps Solutions Engi
 
 <img src="images/waves.gif" height="2" width="100%">
 
-### 🛠️ Tools, 🌎 Languages, 🌩️ Cloud Platforms (not complete yet ~ updated 3.17.25):
+### 🛠️ Tools, 🌎 Languages, 🌩️ Cloud Platforms (list under construction 3.21.25):
 <a href="https://snyk.io/" target="_blank"><img title="Snyk" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/snyk.svg" style="padding: 10px;" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img title="Amazon Web Services" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/aws.svg" style="padding: 10px;" /></a>
 <a href="https://cloud.google.com/" target="_blank"><img title="Google Cloud Platform" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/googlecloud.svg" style="padding: 10px;" /></a>
@@ -74,7 +74,7 @@ Hi there! I’m Matt Haneburger, currently working as a DevSecOps Solutions Engi
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=matthaneburger&theme=nightowl&show_icons=true&hide_border=false&count_private=true&rank_icon=github$hide_title=true" width="500px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=matthaneburger&theme=nightowl&show_icons=true&hide_border=false&count_private=true&rank_icon=github&hide_title=true" width="500px"/>
 
 <img src="images/waves.gif" height="2" width="100%">
 
