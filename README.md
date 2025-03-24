@@ -4,7 +4,7 @@ These graphics are served from this OS app: https://gh-stats-gen.vercel.app/
 -->
 
 ### 👨‍💻 About Me:
-Hi there! I’m Matt Haneburger, currently working as a DevSecOps Solutions Engineer. My background is in software development, and I’ve always loved building, breaking, and tinkering with code to see what makes it tick. When I’m not buried in code, you’ll probably find me at the gym, out hiking, kayaking, traveling, or deep into some good horror 🧟‍♂️. I’m passionate about all things tech, constantly learning, and always looking for ways to push the boundaries of what’s possible.
+Hi there! I’m Matt Haneburger, currently working as a DevSecOps Solutions Engineer. My background is in software development, and I’ve always loved building, breaking, and tinkering with code to see what makes it tick. When I’m not coding, I am most likely at the gym, out hiking, kayaking, traveling, or deep into some good horror 🧟‍♂️. I’m passionate about all things tech, constantly learning, and always looking for ways to push the boundaries of what’s possible.
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
