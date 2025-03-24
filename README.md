@@ -1,6 +1,6 @@
 <div align="center">
 <!--
-These graphics are served from this OS app: https://gh-stats-gen.vercel.app/
+These graphics are served from this OS app: https://gh-stats-gen.vercel.app/ as well as https://github.com/Ashutosh00710/github-readme-activity-graph
 -->
 
 ### 👨‍💻 About Me:
@@ -64,7 +64,7 @@ Hi there! I’m Matt Haneburger, currently working as a DevSecOps Solutions Engi
 
 ### GitHub Commit History
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=matthaneburger&theme=react-dark&hide_title=true&line=39D353&color=39D353">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=matthaneburger&theme=github&hide_title=true&point=ffb3fc&color=89d79b&line=89d79b">
 
 <img src="images/waves.gif" height="2" width="100%">
 
