@@ -4,7 +4,7 @@ These graphics are served from this OS app: https://gh-stats-gen.vercel.app/ as 
 -->
 
 ### 👨‍💻 About Me:
-Hi there! I’m Matt Haneburger, currently working as a DevSecOps Solutions Engineer. My background is in software development, and I’ve always loved building, breaking, and tinkering with code to see what makes it tick. When I’m not coding, I am most likely at the gym, out hiking, kayaking, traveling, or deep into some good horror 🧟‍♂️. I’m passionate about all things tech, constantly learning, and always looking for ways to push the boundaries of what’s possible.
+Hi there! I’m Matt Haneburger, currently working as a Customer Success Engineer. My background is in software development and security, and I’ve always loved building, breaking, and tinkering with code to see what makes it tick. When I’m not coding, I am most likely at the gym, out hiking, kayaking, traveling, or reading a horror novel. I’m passionate about all things tech, constantly learning, and always looking for ways to make my life easier via automation.
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -68,10 +68,10 @@ Hi there! I’m Matt Haneburger, currently working as a DevSecOps Solutions Engi
 
 <img src="images/waves.gif" height="2" width="100%">
 
-### GitHub Trophies
+<!--### GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=matthaneburger&theme=tokyonight&no-frame=true&row=1&column=4&rank=SSS,SS,S,AAA,AA,A,B" width="700px">
 
-<img src="images/waves.gif" height="2" width="100%">
+<img src="images/waves.gif" height="2" width="100%"> -->
 
 ### GitHub Stats
 
