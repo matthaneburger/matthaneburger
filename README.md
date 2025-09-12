@@ -35,7 +35,7 @@ Hi there! I’m Matt Haneburger, currently working as a Customer Success Enginee
 <img src="images/waves.gif" height="2" width="100%">
 
 ### 🛠️ Tools, 🌎 Languages, 🌩️ Cloud Platforms (list under construction 3.21.25):
-<a href="https://www.python.org/" target="_blank"><img title="Python" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/python.png" style="padding: 10px;" /></a>
+<a href="https://www.python.org/" target="_blank"><img title="Python" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/python.svg" style="padding: 10px;" /></a>
 <a href="https://apiiro.com/" target="_blank"><img title="Apiiro" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/apiiro.png" style="padding: 10px;" /></a>
 <a href="https://snyk.io/" target="_blank"><img title="Snyk" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/snyk.svg" style="padding: 10px;" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img title="Amazon Web Services" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/aws.svg" style="padding: 10px;" /></a>
