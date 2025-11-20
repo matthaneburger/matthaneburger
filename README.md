@@ -27,7 +27,7 @@ Hi there! I’m Matt Haneburger, currently working as a Customer Success Enginee
         <img src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/letterboxd.svg" width="80" height="80" alt="Letterboxd" />
       </a>
       <br/>
-      <sub><b></b>Letterboxd 🍿</b></sub>
+      <sub><b>Letterboxd 🍿</b></sub>
     </td>
   </tr>
 </table>
