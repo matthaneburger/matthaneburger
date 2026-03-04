@@ -6,7 +6,7 @@ These graphics are served from this OS app: https://gh-stats-gen.vercel.app/ as 
 ### 👨‍💻 About Me:
 Hi there! I’m Matt Haneburger, currently working as a Customer Success Engineer @ Apiiro. My background is in software development and security, and I’ve always loved building, breaking, and tinkering with code. Outside of work, I am most likely at the gym, on a hike, kayaking, traveling, or reading a horror novel. I’m passionate about all things tech, constantly learning, and always looking for ways to make my life easier via automation.
 
-GitHub for <a href="https://snyk.io/" target="_blank"><img title="Snyk" width="36px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/snyk.svg" style="padding: 10px;" /></a>: https://github.com/reinerhaneburgersnyk
+GitHub for <a href="https://snyk.io/" target="_blank"><img title="Snyk" width="12px" src="https://github.com/matthaneburger/matthaneburger/blob/main/images/techIcons/snyk.svg" style="padding: 10px;" /></a>: https://github.com/reinerhaneburgersnyk
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
