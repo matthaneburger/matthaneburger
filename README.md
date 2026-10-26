@@ -74,4 +74,4 @@ Personal GitHub <a href="https://snyk.io/" target="_blank"><img title="Snyk" wid
 
 ### Top Languages
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=matthaneburger&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&hide_title=true" width="700px">
+<img src="[https://github-stats-extended.vercel.app/api/top-langs/?username=matthaneburger&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&hide_title=false](https://github-stats-extended.vercel.app/api/top-langs?username=matthaneburger&layout=pie&langs_count=6&hide_values=true&theme=ambient_gradient)" width="700px">
