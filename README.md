@@ -66,17 +66,6 @@ Personal GitHub <a href="https://snyk.io/" target="_blank"><img title="Snyk" wid
 
 <img src="images/waves.gif" height="2" width="100%">
 
-### GitHub Commit History
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=matthaneburger&theme=github&hide_title=true&point=ffb3fc&color=89d79b&line=89d79b">
-
-<img src="images/waves.gif" height="2" width="100%">
-
-<!--### GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=matthaneburger&theme=tokyonight&no-frame=true&row=1&column=4&rank=SSS,SS,S,AAA,AA,A,B" width="700px">
-
-<img src="images/waves.gif" height="2" width="100%"> -->
-
 ### GitHub Stats
 
 <img src="https://github-stats-extended.vercel.app/api?username=matthaneburger&theme=nightowl&show_icons=true&hide_border=false&count_private=true&rank_icon=github&hide_title=true" width="500px"/>
