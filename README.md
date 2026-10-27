@@ -75,3 +75,5 @@ Personal GitHub <a href="https://snyk.io/" target="_blank"><img title="Snyk" wid
 ### Top Languages
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=matthaneburger&layout=pie&hide_title=true&langs_count=6&hide_values=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=matthaneburger&layout=pie&hide_title=true&langs_count=6&hide_values=true&theme=ambient_gradient)
+
+![Metrics](https://raw.githubusercontent.com/matthaneburger/matthaneburger/main/github-metrics.svg)
